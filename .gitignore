@@ -1,0 +1,10 @@
+MDK-ARM/RTE/
+MDK-ARM/pwm_discovery_L053\ Configuration/
+
+*.dep
+*.o
+*.d
+*.bin
+*.hex
+*.map
+
